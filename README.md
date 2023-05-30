@@ -17,7 +17,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Timevault on GCP Cloudrun](https://dev.to/ittrident/timevault-on-gcp-cloudrun-4d5k)
+- [How to Deploy a TimeVault Application on Cloud Run with Cloud Build on GCP](https://dev.to/ittrident/timevault-on-gcp-cloudrun-4d5k)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
