@@ -17,6 +17,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Step-by-Step Guide to Deploying an Application on AWS App Runner with GitHub Action workflow](https://dev.to/ittrident/a-step-by-step-guide-to-deploying-an-application-on-aws-app-runner-with-github-action-workflow-17ke)
 - [How to Deploy a TimeVault Application on Cloud Run with Cloud Build on GCP](https://dev.to/ittrident/timevault-on-gcp-cloudrun-4d5k)
 <!-- BLOG-POST-LIST:END -->
 
