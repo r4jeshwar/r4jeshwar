@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r4jeshwar" alt="r4jeshwar" /></a> </p>
 
-- 🔭 I’m worked on Open projects **python-kanboard-deploy, Uguu, terraform-exoscale-faasd**
+- 🔭 I’m worked on Open projects **Partage, espocrm-k8s**
 
-- 🌱 I’m currently learning **K8s, Gitlab**
+- 🌱 I’m currently learning **Mobile deployment, Fastlane**
 
 - 💬 Ask me about **Python, Terraform, Docker**
 
