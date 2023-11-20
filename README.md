@@ -11,7 +11,7 @@
 - 💬 Ask me about **Python, Terraform, Docker**
 
 <!--START_SECTION:badges-->
-https://www.credly.com/badges/8bc58637-9245-4b81-8a95-0e38951d75a3/public_url
+
 <!--END_SECTION:badges-->
 
 <h3 align="left">Connect with me:</h3>
