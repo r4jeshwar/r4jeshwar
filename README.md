@@ -11,7 +11,7 @@
 - 💬 Ask me about **Python, Terraform, Docker**
 
 <!--START_SECTION:badges-->
-
+[![AWS Certified DevOps Engineer – Professional](https://images.credly.com/size/110x110/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png)](http://www.credly.com/badges/8bc58637-9245-4b81-8a95-0e38951d75a3 "AWS Certified DevOps Engineer – Professional")
 <!--END_SECTION:badges-->
 
 <h3 align="left">Connect with me:</h3>
