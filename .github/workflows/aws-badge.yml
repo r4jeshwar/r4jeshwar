@@ -13,4 +13,4 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:       
-          CREDLY_USER: rajeshwarrajakumar2000@gmail.com # optional, but default will use the same from github
+          CREDLY_USER: rajeshwar-r.e41b2458 # optional, but default will use the same from github
