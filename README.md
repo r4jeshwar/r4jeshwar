@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/r4jeshwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="r4jeshwar" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Training and Certification:</h3>
+## Training and Certification
 <!--START_SECTION:badges-->
 [![AWS Certified DevOps Engineer – Professional](https://images.credly.com/size/110x110/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png)](http://www.credly.com/badges/8bc58637-9245-4b81-8a95-0e38951d75a3 "AWS Certified DevOps Engineer – Professional")
 <!--END_SECTION:badges-->
