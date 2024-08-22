@@ -21,6 +21,8 @@ jobs:
         with:
           scan-type: 'fs'
           ignore-unfixed: true
+          format: html
+          output: trivy-report.html
           exit-code: 1
           severity: 'HIGH,CRITICAL'
 
