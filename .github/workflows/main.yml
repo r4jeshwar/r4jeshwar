@@ -23,7 +23,8 @@ jobs:
           ignore-unfixed: true
           exit-code: 1
           severity: 'HIGH,CRITICAL'
-          format: html
+          format: template
+          template: "@/contrib/html.tpl"
           output: trivy-report.html
 
       - name: Check for vulnerabilities
